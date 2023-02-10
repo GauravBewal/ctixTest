@@ -1,0 +1,50 @@
+1663004757404	geckodriver	INFO	Listening on 127.0.0.1:60466
+1663004758286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofilei3nbM9"
+1663004758585	Marionette	INFO	Marionette enabled
+1663004758622	Marionette	INFO	Listening on port 60475
+2022-09-12 23:15:58.689 plugin-container[39019:501638] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-12 23:15:58.689 plugin-container[39019:501638] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-12 23:15:58.698 plugin-container[39019:501638] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-12 23:15:58.698 plugin-container[39019:501638] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-12 23:15:58.698 plugin-container[39019:501636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-12 23:15:58.698 plugin-container[39019:501636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60475
+1663004758815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofilei3nbM9/search.json.mozlz4", (void 0)))
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uiauto-977.cywaredev.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://uiauto-977.cywaredev.com."
+1663004812634	Marionette	INFO	Stopped listening on port 60475
+1670306570182	geckodriver	INFO	Listening on 127.0.0.1:64733
+1670306571061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofilexpEycS"
+1670306571480	Marionette	INFO	Marionette enabled
+1670306571519	Marionette	INFO	Listening on port 64744
+2022-12-06 11:32:51.531 plugin-container[77125:2075461] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 11:32:51.531 plugin-container[77125:2075461] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 11:32:51.586 plugin-container[77125:2075461] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 11:32:51.586 plugin-container[77125:2075461] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 11:32:51.586 plugin-container[77125:2075501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 11:32:51.586 plugin-container[77125:2075501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 64744
+1670306571715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofilexpEycS/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bugbasket.cywareqa.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://bugbasket.cywareqa.com."
+1670326523650	geckodriver	INFO	Listening on 127.0.0.1:49779
+1670326524537	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofileLNZdDj"
+1670326525094	Marionette	INFO	Marionette enabled
+2022-12-06 17:05:25.145 plugin-container[92405:2286046] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 17:05:25.145 plugin-container[92405:2286046] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670326525201	Marionette	INFO	Listening on port 49790
+Read port: 49790
+2022-12-06 17:05:25.298 plugin-container[92405:2286046] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 17:05:25.299 plugin-container[92405:2286046] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 17:05:25.299 plugin-container[92405:2286044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 17:05:25.299 plugin-container[92405:2286044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670326525411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gq/yd2wdq_s60z077vjy7_569qc0000gr/T/rust_mozprofileLNZdDj/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri

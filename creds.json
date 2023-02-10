@@ -1,0 +1,22 @@
+{
+    "csol": {
+        "base_url": "https://qa.co.cywareqa.com",
+        "secret_key": "5c871818-26c7-4fde-a00a-d1743c67b51b",
+        "access_id": "094da72b-2838-46a9-9674-8a68d2116116"
+    },
+    "ctix": {
+        "base_url": "https://v3qaautomation.cywareqa.com/ctixapi/",
+        "access_id": "9c8c1ea5-9018-47e4-b71c-9520f375ec12",
+        "secret_key": "4a840ab2-fc38-4ae3-9461-a20deb6f4fd7"
+    },
+    "cftr": {
+        "api_url": "http://alpha.cywaredev.com/cftrapi/openapi/",
+        "secret_key": "34e88c51-2916-4437-93a4-d420d057a2f1",
+        "access_id": "0c7a1a81-422a-456b-bee2-2d8e3acfdea9"
+    },
+    "csap": {
+        "base_url": "https://csaptest.cywarestg.com/api/",
+        "secret_key": "977a07da-ca5c-414c-b79b-7877ac859d2e",
+        "access_id": "922b95b3-a194-4a9c-8e3e-2e12ab40576b"
+    }
+}

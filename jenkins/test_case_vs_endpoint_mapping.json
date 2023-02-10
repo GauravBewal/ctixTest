@@ -1,0 +1,2252 @@
+{
+  "IntegrationServicesApps": {
+    "test_01_apps_category": {
+      "endpoint": "/apps/category",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_02_list_applications": {
+      "endpoint": "/apps",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_03_CFTR_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_04_CSAP_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_05_CSOL_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_06_CTIX_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_07_ArcSight_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_08_Exabeam_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_09_Humio_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_10_QRadar_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_11_Splunk_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_12_CORTEX_XSOAR_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_13_Splunk_Phantom_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_14_Swimlane_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_15_Zscaler_Network_Security_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_16_Carbon_Black_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_17_McAfee_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_18_McAfee_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_19_Alien_Vault_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_20_AbuseIPDB_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_21_Alexa_Ranking_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_22_alphaMountain_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_23_APIVoid_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_24_ArcSight_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_25_Blue_Coat_Systems_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_26_Cisco_Umbrella_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_27_Comodo_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_28_CVE_Details_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_29_Cybersixgill_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_30_EXPLOIT_DATABASE_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_31_Farsight_DNSDB_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_32_Google_Safe_Browsing_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_33_GreyNoise_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_34_Have_I_Been_Pwned_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_35_Hybrid_Analysis_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_36_IANA_whois_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_37_IBM_X_Force_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_38_Kaspersky_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_39_Mandiant_Threat_Intelligence_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_40_Mandiant_Threat_Intelligence_v4_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_41_MaxMind_GeoIP_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_42_Misp_WarningList_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_43_MX_Toolbox_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_44_NVD_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_45_Phishtank_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_46_PolySwarm_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_47_Recorded_Future_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_48_RiskIQ_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_49_Shodan_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_50_SlashNext_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_51_Threat_Miner_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_52_Virus_Total_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_53_VMRay_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_54_Zscaler_Enrichment_application_details": {
+      "endpoint": "/apps/detail/app_id",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_55_siem_soar_apps": {
+      "endpoint": "/apps/actioned",
+      "service": "integration",
+      "request_type": "GET"
+    }
+  },
+  "IntegrationServicesAccounts": {
+    "test_01_create_CFTR_account": {
+      "endpoint": "/apps/{app_id('CFTR')}/accounts",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_02_update_CFTR_account": {
+      "endpoint": "/apps/{app_id('CFTR')}/accounts/{acnt_id('CFTR')}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_03_get_CFTR_accounts": {
+      "endpoint": "/apps/{app_id('CFTR')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_04_delete_CFTR_account": {
+      "endpoint": "/apps/{app_id('CFTR')}/accounts/{acnt_id('CFTR')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_05_create_CSAP_account": {
+      "endpoint": "/apps/{app_id('CSAP')}/accounts/{acnt_id('CSAP')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_06_update_CSAP_account": {
+      "endpoint": "/apps/{app_id('CSAP')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_07_get_CSAP_accounts": {
+      "endpoint": "/apps/{app_id('CSAP')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_08_delete_CSAP_account": {
+      "endpoint": "/apps/{app_id('CSAP')}/accounts/{acnt_id('CSAP')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_09_create_CSOL_account": {
+      "endpoint": "/apps/{app_id('CSOL')}/accounts/{acnt_id('CSOL')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_10_update_CSOL_account": {
+      "endpoint": "/apps/{app_id('CSOL')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_11_get_CSOL_accounts": {
+      "endpoint": "/apps/{app_id('CSOL')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_12_delete_CSOL_account": {
+      "endpoint": "/apps/{app_id('CSOL')}/accounts/{acnt_id('CSOL')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_13_create_QRadar_account": {
+      "endpoint": "/apps/{app_id('QRadar')}/accounts/{acnt_id('QRadar')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_14_update_QRadar_account": {
+      "endpoint": "/apps/{app_id('QRadar')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_15_get_QRadar_accounts": {
+      "endpoint": "/apps/{app_id('QRadar')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_16_delete_QRadar_account": {
+      "endpoint": "/apps/{app_id('CSOL')}/accounts/{acnt_id('QRadar')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_17_create_Splunk_account": {
+      "endpoint": "/apps/{app_id('Splunk')}/accounts/{acnt_id('Splunk')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_18_update_Splunk_account": {
+      "endpoint": "/apps/{app_id('Splunk')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_19_get_Splunk_accounts": {
+      "endpoint": "/apps/{app_id('Splunk')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_20_delete_Splunk_account": {
+      "endpoint": "/apps/{app_id('Splunk')}/accounts/{acnt_id('Splunk')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_21_create_CORTEX_XSOAR_account": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/accounts/{acnt_id('CORTEX_XSOAR')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_22_update_CORTEX_XSOAR_account": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_23_get_CORTEX_XSOAR_accounts": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_24_delete_CORTEX_XSOAR_account": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/accounts/{acnt_id('CORTEX_XSOAR')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_25_create_Zscaler_Network_Security_account": {
+      "endpoint": "/apps/{app_id('Zscaler')}/accounts/{acnt_id('Zscaler')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_26_update_Zscaler_Network_Security_account": {
+      "endpoint": "/apps/{app_id('Zscaler')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_27_get_Zscaler_Network_Security_accounts": {
+      "endpoint": "/apps/{app_id('Zscaler')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_28_delete_Zscaler_Network_Security_account": {
+      "endpoint": "/apps/{app_id('Zscaler')}/accounts/{acnt_id('Zscaler')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_29_create_Alien_Vault_account": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/accounts/{acnt_id('Alien_Vault')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_30_update_Alien_Vault_account": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_31_get_Alien_Vault_accounts": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_32_delete_Alien_Vault_account": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/accounts/{acnt_id('Alien_Vault')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_33_create_AbuseIPDB_account": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/accounts/{acnt_id('AbuseIPDB')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_34_update_AbuseIPDB_account": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_35_get_AbuseIPDB_accounts": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_36_delete_AbuseIPDB_account": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/accounts/{acnt_id('AbuseIPDB')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    },
+    "test_41_create_Alexa_Ranking_account": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/accounts/{acnt_id('Alexa_Ranking')}",
+      "service": "integration",
+      "request_type": "POST"
+    },
+    "test_42_update_Alexa_Ranking_account": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/accounts",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_43_get_Alexa_Ranking_accounts": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/accounts",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_44_delete_Alexa_Ranking_account": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/accounts/{acnt_id('Alexa_Ranking')}",
+      "service": "integration",
+      "request_type": "DELETE"
+    }
+  },
+  "IntegrationServicesAction": {
+    "test_01_action_configs_CFTR": {
+      "endpoint": "/apps/{app_id('CFTR')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_02_update_action_CFTR": {
+      "endpoint": "/apps/{app_id('CFTR')}/actions/{action_id(CFTR)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_03_actions_CFTR": {
+      "endpoint": "/apps/{app_id('CFTR')}/actions/{action_id(CFTR)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_04_action_configs_CSAP": {
+      "endpoint": "/apps/{app_id('CSAP')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_05_update_action_CSAP": {
+      "endpoint": "/apps/{app_id('CSAP')}/actions/{action_id(CSAP)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_06_actions_CSAP": {
+      "endpoint": "/apps/{app_id('CSAP')}/actions/{action_id(CSAP)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_07_action_configs_CSOL": {
+      "endpoint": "/apps/{app_id('CSOL')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_08_update_action_CSOL": {
+      "endpoint": "/apps/{app_id('CSOL')}/actions/{action_id(CSOL)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_09_actions_CSOL": {
+      "endpoint": "/apps/{app_id('CSOL')}/actions/{action_id(CSOL)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_10_action_configs_QRadar": {
+      "endpoint": "/apps/{app_id('QRadar')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_11_update_action_QRadar": {
+      "endpoint": "/apps/{app_id('QRadar')}/actions/{action_id(QRadar)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_12_actions_QRadar": {
+      "endpoint": "/apps/{app_id('QRadar')}/actions/{action_id(QRadar)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_13_action_configs_Splunk": {
+      "endpoint": "/apps/{app_id('Splunk')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_14_update_action_Splunk": {
+      "endpoint": "/apps/{app_id('Splunk')}/actions/{action_id(Splunk)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_15_actions_Splunk": {
+      "endpoint": "/apps/{app_id('Splunk')}/actions/{action_id(Splunk)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_16_action_configs_CORTEX_XSOAR": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_17_update_action_CORTEX_XSOAR": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/actions/{action_id(CORTEX_XSOAR)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_18_actions_CORTEX_XSOAR": {
+      "endpoint": "/apps/{app_id('CORTEX_XSOAR')}/actions/{action_id(CORTEX_XSOAR)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_19_action_configs_Zscaler_Network_Security": {
+      "endpoint": "/apps/{app_id('Zscaler')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_20_update_action_Zscaler_Network_Security": {
+      "endpoint": "/apps/{app_id('Zscaler')}/actions/{action_id(Zscaler)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_21_actions_Zscaler_Network_Security": {
+      "endpoint": "/apps/{app_id('Zscaler')}/actions/{action_id(Zscaler)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_22_action_configs_Alien_Vault": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_23_update_action_Alien_Vault": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/actions/{action_id(Alien_Vault)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_24_actions_Alien_Vault": {
+      "endpoint": "/apps/{app_id('Alien_Vault')}/actions/{action_id(Alien_Vault)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_25_action_configs_AbuseIPDB": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_26_update_action_AbuseIPDB": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/actions/{action_id(AbuseIPDB)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_27_actions_AbuseIPDB": {
+      "endpoint": "/apps/{app_id('AbuseIPDB')}/actions/{action_id(AbuseIPDB)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_28_action_configs_Alexa_Ranking": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/action_configs",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_29_update_action_Alexa_Ranking": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/actions/{action_id(Alexa_Ranking)}",
+      "service": "integration",
+      "request_type": "PUT"
+    },
+    "test_30_actions_Alexa_Ranking": {
+      "endpoint": "/apps/{app_id('Alexa_Ranking')}/actions/{action_id(Alexa_Ranking)}",
+      "service": "integration",
+      "request_type": "GET"
+    },
+    "test_04_rule_actions": {
+      "endpoint": "/apps/rule-actions",
+      "service": "integration",
+      "request_type": "GET"
+    }
+  },
+  "IntegrationServicesResetApp": {
+    "test_01_validate_status_code_reset_apps_AlienVault": {
+      "endpoint": "/apps/reset_tool/{integration_app_id}",
+      "service": "integration",
+      "request_type": "DELETE"
+    }
+  },
+  "EnrichmentPolicy": {
+    "test_01_validate_status_code_list_of_policies": {
+      "endpoint": "/policy",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_list_of_policies": {
+      "endpoint": "/policy",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_details_of_policy": {
+      "endpoint": "/policy/{id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "SourceWeightage": {
+    "test_01_source_weightage": {
+      "endpoint": "/feed-sources/source-weightage/api_feeds",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_update_source_weightage": {
+      "endpoint": "/feed-sources/source-weightage",
+      "service": "conversion",
+      "request_type": "PUT"
+    }
+  },
+  "SubscriberWeightage": {
+    "test_01_validate_status_code_subscriber_weightage": {
+      "endpoint": "/subscriber/source-weightage",
+      "service": "publishing",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_subscriber_weightage": {
+      "endpoint": "/subscriber/source-weightage",
+      "service": "publishing",
+      "request_type": "GET"
+    }
+  },
+  "Rules": {
+    "test_01_validate_status_code_rules_json": {
+      "endpoint": "/rules/json",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_rules_json": {
+      "endpoint": "/rules/json",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "ThreatInvestigationCanvas": {
+    "test_01_validate_status_code_canvas_list": {
+      "endpoint": "/canvas",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_canvas_list": {
+      "endpoint": "/canvas",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_canvas_detail": {
+      "endpoint": "/canvas/{canvas_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "HelpDocumentation": {
+    "test_01_validate_status_code_help_doc": {
+      "endpoint": "/doc-link",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_help_doc": {
+      "endpoint": "/doc-link",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "LicenseManagement": {
+    "test_01_validate_status_code_tenant_permit": {
+      "endpoint": "/tenant-permit",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_tenant_permit": {
+      "endpoint": "/tenant-permit",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_resource_list": {
+      "endpoint": "/resource/list",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_04_validate_response_resource_list": {
+      "endpoint": "/resource/list",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "Login": {
+    "test_01_validate_status_code_supported_auths": {
+      "endpoint": "/auth-types",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_supported_auths": {
+      "endpoint": "/auth-types",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "Groups": {
+    "test_01_validate_status_code_list_groups": {
+      "endpoint": "/groups",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_list_groups": {
+      "endpoint": "/groups",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_list_components": {
+      "endpoint": "/components",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_04_validate_response_list_components": {
+      "endpoint": "/components",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_05_validate_status_code_admin_group": {
+      "endpoint": "/groups/{group_id}",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_06_validate_response_admin_group": {
+      "endpoint": "/groups/{group_id}",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "Users": {
+    "test_01_validate_status_code_list_users": {
+      "endpoint": "/users",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_list_users": {
+      "endpoint": "/users",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_user_details": {
+      "endpoint": "/user-details",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_04_validate_response_user_details": {
+      "endpoint": "/user-details",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_05_validate_status_code_user_boarding": {
+      "endpoint": "/user-boarding",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_06_validate_response_user_boarding": {
+      "endpoint": "/user-boarding",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_07_validate_status_code_user_share": {
+      "endpoint": "/user-share",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_08_validate_response_user_share": {
+      "endpoint": "/user-share",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_09_validate_status_code_user_logs": {
+      "endpoint": "/logs/user/{user_id}",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_10_validate_response_user_logs": {
+      "endpoint": "/logs/user/{user_id}",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "Ping": {
+    "test_01_validate_status_code_ping": {
+      "endpoint": "/ping",
+      "service": "",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_ping": {
+      "endpoint": "/ping",
+      "service": "",
+      "request_type": "GET"
+    }
+  },
+  "QuickAddIntel": {
+    "test_01_IOC_Options": {
+      "endpoint": "/quick-intel/ioc-options",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_region_vocab_listing": {
+      "endpoint": "/quick-intel/vocabs/region_ov",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_country_enum_listing": {
+      "endpoint": "/quick-intel/vocabs/country_enum/",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_create_intel": {
+      "endpoint": "/quick-intel/create-stix",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_05_create_parse_ioc_task": {
+      "endpoint": "/quick-intel/free-text",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_06_parse_ioc_task_result": {
+      "endpoint": "/tasks/{parse_ioc_task_id}/parse-iocs",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_parse_ioc_task_status": {
+      "endpoint": "/tasks/{parse_ioc_task_id}/?fields=status",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "IntelHistory": {
+    "test_01_list_intel_history": {
+      "endpoint": "/intel-history",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_search_intel_history": {
+      "endpoint": "/intel-history",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_sort_intel_history_title": {
+      "endpoint": "/intel-history",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_intel_history_stat": {
+      "endpoint": "/intel-history-stat",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "Certificate": {
+    "test_01_create_certificate": {
+      "endpoint": "/certificate",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_update_certificate": {
+      "endpoint": "/certificate/{cert_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_03_list_certificate": {
+      "endpoint": "/certificate",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "TenantConfiguration": {
+    "test_01_tenant_config_retrieve": {
+      "endpoint": "/tenant/config",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_update_tenant_config": {
+      "endpoint": "/tenant/config",
+      "service": "conversion",
+      "request_type": "PUT"
+    }
+  },
+  "Configuration": {
+    "test_01_validate_status_code_tenant_config": {
+      "endpoint": "/tenant/config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_tenant_config": {
+      "endpoint": "/tenant/config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_auth_config": {
+      "endpoint": "/auth-config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_04_validate_response_auth_config": {
+      "endpoint": "/auth-config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_05_validate_status_code_recaptcha_creds": {
+      "endpoint": "/auth-config/recaptcha",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_06_validate_response_recaptcha_creds": {
+      "endpoint": "/auth-config/recaptcha",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_07_validate_status_code_update_recaptcha_creds": {
+      "endpoint": "/auth-config/recaptcha",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_08_validate_resp_update_recaptcha_creds": {
+      "endpoint": "/auth-config/recaptcha",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_09_validate_status_code_update_auth_config": {
+      "endpoint": "/auth-config",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_10_validate_resp_update_auth_config": {
+      "endpoint": "/auth-config",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_11_validate_status_code_tenant_details": {
+      "endpoint": "/tenant",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_12_validate_status_code_upload_logo": {
+      "endpoint": "/tenant/config/logo",
+      "service": "rest-auth",
+      "request_type": "POST"
+    },
+    "test_13_validate_resp_upload_logo": {
+      "endpoint": "/tenant/config/logo",
+      "service": "rest-auth",
+      "request_type": "POST"
+    },
+    "test_14_validate_status_code_logo_details": {
+      "endpoint": "/tenant/config/logo/?logo=true&",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_15_validate_status_code_delete_logo": {
+      "endpoint": "/tenant/config/logo/?logo=true&",
+      "service": "rest-auth",
+      "request_type": "DELETE"
+    },
+    "test_16_validate_resp_delete_logo": {
+      "endpoint": "/tenant/config/logo/?logo=true&",
+      "service": "rest-auth",
+      "request_type": "DELETE"
+    },
+    "test_17_validate_status_code_firewall_config": {
+      "endpoint": "/tenant/config/access-restriction",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_18_validate_resp_firewall_config": {
+      "endpoint": "/tenant/config/access-restriction",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "AuthConfiguration": {
+    "test_01_validate_status_code_LDAP_config_details": {
+      "endpoint": "/auth-config/ldap",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_LDAP_config_details": {
+      "endpoint": "/auth-config/ldap",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_password_policy_details": {
+      "endpoint": "/auth-config/password-policy",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_04_validate_resp_password_policy_details": {
+      "endpoint": "/auth-config/password-policy",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_05_validate_status_code_update_password_policy": {
+      "endpoint": "/auth-config/password-policy",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_06_validate_resp_update_password_policy": {
+      "endpoint": "/auth-config/password-policy",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_07_validate_status_code_google_sign_in_config": {
+      "endpoint": "/auth-config/google",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_08_validate_resp_google_sign_in_config": {
+      "endpoint": "/auth-config/google",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_09_validate_status_code_user_password_config": {
+      "endpoint": "/auth-config/user-pass",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_10_validate_resp_user_password_config": {
+      "endpoint": "/auth-config/user-pass",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_11_validate_status_code_update_user_password_config": {
+      "endpoint": "/auth-config/user-pass",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_12_validate_resp_update_user_password_config": {
+      "endpoint": "/auth-config/user-pass",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    }
+  },
+  "ComponentConfiguration": {
+    "test_01_validate_status_code_component_config": {
+      "endpoint": "/component-config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_component_config": {
+      "endpoint": "/component-config",
+      "service": "rest-auth",
+      "request_type": "GET"
+    }
+  },
+  "RateLimit": {
+    "test_01_validate_status_code_open_api_rate_limit_details": {
+      "endpoint": "/rate-limit/openapi",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_open_api_rate_limit_details": {
+      "endpoint": "/rate-limit/openapi",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_update_open_api_rate_limit": {
+      "endpoint": "/rate-limit/openapi",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_04_validate_resp_update_open_api_rate_limit": {
+      "endpoint": "/rate-limit/openapi",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_05_validate_status_code_taxii_rate_limit": {
+      "endpoint": "/rate-limit/taxii",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_06_validate_resp_taxii_rate_limit": {
+      "endpoint": "/rate-limit/taxii",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_07_validate_status_code_update_taxii_rate_limit": {
+      "endpoint": "/rate-limit/taxii",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    },
+    "test_08_validate_resp_update_taxii_rate_limit": {
+      "endpoint": "/rate-limit/taxii",
+      "service": "rest-auth",
+      "request_type": "PUT"
+    }
+  },
+  "ThreatIntelCrawler": {
+    "test_01_validate_status_code_list_creds": {
+      "endpoint": "/openapi/credentials",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_02_validate_response_list_creds": {
+      "endpoint": "/openapi/credentials",
+      "service": "rest-auth",
+      "request_type": "GET"
+    },
+    "test_03_validate_status_code_scan_intel": {
+      "endpoint": "/browser-extension/scan",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_04_validate_resp_scan_intel": {
+      "endpoint": "/browser-extension/scan",
+      "service": "ingestion",
+      "request_type": "POST"
+    }
+  },
+  "Export": {
+    "test_01_generate_link": {
+      "endpoint": "/export",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_download_file": {
+      "endpoint": "/export/threat_data",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "APIIntegrations": {
+    "test_01_verify_api_feed_list": {
+      "endpoint": "/api-feeds/apps",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_create_api_feed_account": {
+      "endpoint": "/api-feeds/apps/{app_id}/accounts",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_03_action_configuration_list": {
+      "endpoint": "/api-feeds/apps/{app_id}/action_configs",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_update_api_feed_action": {
+      "endpoint": "/api-feeds/apps/{app_id}/actions/{account_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_05_configure_manual_polling": {
+      "endpoint": "/api-feeds/apps/{app_id}/update/actions",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_06_api_feeds_details": {
+      "endpoint": "/api-feeds/apps/detail/{app_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_retrieve_api_feed_account_details": {
+      "endpoint": "/api-feeds/apps/{app_id}/accounts/{account_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_08_accounts_of_an_api_feed_connector": {
+      "endpoint": "/api-feeds/apps/{app_id}/accounts",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_09_update_api_feed_account_details": {
+      "endpoint": "/api-feeds/apps/{app_id}/accounts/{account_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_10_api_feed_app_action_list": {
+      "endpoint": "/api-feeds/apps/{app_id}/actions",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_11_action_details": {
+      "endpoint": "/api-feeds/apps/{app_id}/actions/{third_party_action_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_12_configured_connector_list": {
+      "endpoint": "/feed-sources/api_feeds",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_13_reset_tool": {
+      "endpoint": "/api-feeds/apps/reset_tool/{app_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "AllowedIndicators": {
+    "test_01_create_allow_list": {
+      "endpoint": "/whitelist",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_allowed_indicator_list": {
+      "endpoint": "/whitelist",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_allowed_options_list": {
+      "endpoint": "/whitelist/getoptions",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_single_allowed_indicator": {
+      "endpoint": "/whitelist/{intel_id[1]}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_05_update_allowed_indicator": {
+      "endpoint": "/whitelist/{intel_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_06_reason_list": {
+      "endpoint": "/whitelist/reasons/?whitelist=intel_id",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_delete_reason": {
+      "endpoint": "/whitelist/reasons/reason_id",
+      "service": "conversion",
+      "request_type": "DELETE"
+    },
+    "test_08_create_reason": {
+      "endpoint": "/whitelist/reasons/?whitelist=intel_id",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_09_update_reason": {
+      "endpoint": "/whitelist/reasons/?whitelist=intel_id",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_10_parse_IOC": {
+      "endpoint": "/whitelist/parse-ioc",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_11_bulk_action": {
+      "endpoint": "/whitelist/bulk-actions",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_12_delete_allowed_indicator": {
+      "endpoint": "/whitelist/intel_id",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "DataImportExport": {
+    "test_01_import_allowed_indicator": {
+      "endpoint": "/import/csv",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_export_allowed_indicator": {
+      "endpoint": "/export",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_03_import_stix1_dot_x": {
+      "endpoint": "/import/stix1",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_04_import_stix2_dot_1": {
+      "endpoint": "/import/stix2",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_05_download_template": {
+      "endpoint": "/export/template",
+      "service": "conversion",
+      "request_type": "POST"
+    }
+  },
+  "Dashboard": {
+    "test_01_create_dashboard": {
+      "endpoint": "/analytics/dashboard",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_update_dashboard": {
+      "endpoint": "/analytics/dashboard/{dashboard_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_03_all_dashboard_details": {
+      "endpoint": "/analytics/dashboard",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_specific_dashboard_details": {
+      "endpoint": "/analytics/dashboard/{dashboard_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_05_widget_list": {
+      "endpoint": "/analytics/widget",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_06_top_level_domain": {
+      "endpoint": "/analytics/utilities/tld/data",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_07_search_widget": {
+      "endpoint": "/analytics/widget/sdo_vs_sources",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_08_retrieve_widget_data": {
+      "endpoint": "/analytics/widget/top5_sdos/data",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_09_export_dashboard": {
+      "endpoint": "/analytics/dashboard_export",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_10_export_widget": {
+      "endpoint": "/analytics/dashboard_export",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_11_delete_dashboard": {
+      "endpoint": "/analytics/dashboard/{dashboard_id}",
+      "service": "ingestion",
+      "request_type": "DELETE"
+    }
+  },
+  "Twitter": {
+    "test_01_create_twitter_account": {
+      "endpoint": "/feed-sources/twitter_feeds",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_twitter_feed_list": {
+      "endpoint": "/feed-sources/twitter_feeds",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_All_tweets": {
+      "endpoint": "/feed-sources/twitter/tweets",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_save_search": {
+      "endpoint": "/feed-sources/twitter/save-searches",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_05_get_saved_searches": {
+      "endpoint": "/feed-sources/twitter/save-searches",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_06_test_twitter_connectivity": {
+      "endpoint": "/feed-sources/twitter/connectivity/{account_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_twitter_account_details": {
+      "endpoint": "/feed-sources/twitter_feeds/{account_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_08_get_saved_search_details": {
+      "endpoint": "/feed-sources/twitter/save-searches/{save_search_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_09_update_twitter_account": {
+      "endpoint": "/feed-sources/twitter_feeds/{account_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_10_parse_tweet": {
+      "endpoint": "/feed-sources/twitter_feeds/{account_id}",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_11_delete_twitter_account": {
+      "endpoint": "/feed-sources/twitter_feeds/{account_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "CQL": {
+    "test_01_combined_source_list": {
+      "endpoint": "/feed-sources",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_source_collection": {
+      "endpoint": "/feed-sources",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_source_type_list": {
+      "endpoint": "/feed-sources",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "CustomSourceCollection": {
+    "test_01_get_collection_list": {
+      "endpoint": "/feed-sources/collection",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_get_collection_detail": {
+      "endpoint": "/feed-sources/collection/{collection_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_create_collection": {
+      "endpoint": "/feed-sources/collection",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "CustomSource": {
+    "test_01_add_custom_source": {
+      "endpoint": "/feed-sources/custom_stix_sources",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_update_custom_source": {
+      "endpoint": "/feed-sources/custom_stix_sources/{source_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_03_delete_custom_source": {
+      "endpoint": "/feed-sources/custom_stix_sources/{source_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    },
+    "test_04_custom_source_list": {
+      "endpoint": "/feed-sources/custom_stix_sources",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "RSSFeeds": {
+    "test_01_create_rss_feed": {
+      "endpoint": "/feed-sources/rss_feed",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_list_rss_source": {
+      "endpoint": "/feed-sources/rss_feed",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_update_rss_feed": {
+      "endpoint": "/feed-sources/rss_feed/{rss_source_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_04_rss_feed_source_detail": {
+      "endpoint": "/feed-sources/rss_feed/{rss_source_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_05_list_rss_feed_article": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_06_view_rss_feed_article": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_update_rss_feed_article": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_08_ioc_listing_api": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_09_create_intel_feeds": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_10_delete_rss_source": {
+      "endpoint": "/feed-sources/rss/articles",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "ThreatMailBox": {
+    "test_01_create_email_source": {
+      "endpoint": "/feed-sources/email_accounts",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_folder_list": {
+      "endpoint": "/feed-sources/email/{account_id}/folders",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_email_message_list": {
+      "endpoint": "/feed-sources/email/{email_id}/folders",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_attachment_listing": {
+      "endpoint": "/feed-sources/email/inbox/{email_id}/attachments",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_05_download_all_attachments": {
+      "endpoint": "/feed-sources/email/inbox/{email_id}/attachments",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_06_email_source_list": {
+      "endpoint": "/feed-sources/EMAIL_ACCOUNTS",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_email_detail": {
+      "endpoint": "/feed-sources/EMAIL_ACCOUNTS/{email_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_08_update_email_source": {
+      "endpoint": "/feed-sources/EMAIL_ACCOUNTS/{email_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_09_update_folder_configuration": {
+      "endpoint": "/feed-sources/email/{email_id}/folders",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_10_email_message_details": {
+      "endpoint": "/feed-sources/email/inbox/{mail_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_11_update_email_message": {
+      "endpoint": "/feed-sources/email/inbox/{mail_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_12_iocs_count": {
+      "endpoint": "/feed-sources/email/inbox/{mail_id}/iocs-count",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_15_delete_email_source": {
+      "endpoint": "/feed-sources/EMAIL_ACCOUNTS/{source_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "FangDefang": {
+    "test_01_indicator_type": {
+      "endpoint": "/utilities/ioc-types",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_02_retrieve_country_data": {
+      "endpoint": "/utilities/countries/",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "AttackNavigator": {
+    "test_01_create_attack_layer": {
+      "endpoint": "/attack-navigator/attack-layer",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_update_attack_layer": {
+      "endpoint": "/attack-navigator/attack-layer/{layer_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_03_attack_layer_listing": {
+      "endpoint": "/attack-navigator/attack-layer",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_attack_layer_details": {
+      "endpoint": "/attack-navigator/attack-layer/{layer_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_05_tactics": {
+      "endpoint": "/attack-navigator/tactics",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_06_technique_list_view": {
+      "endpoint": "/attack-navigator/techniques",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_07_technique_detail_view": {
+      "endpoint": "/attack-navigator/techniques/{technique_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_08_technique_sublist_view": {
+      "endpoint": "/attack-navigator/sub-techniques",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_09_technique_sub_detail_view": {
+      "endpoint": "/attack-navigator/sub-techniques/{technique_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_10_filter": {
+      "endpoint": "/attack-navigator/software",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_11_ioc_heat_map": {
+      "endpoint": "/attack-navigator/software",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_12_attack_technique_filter": {
+      "endpoint": "/attack-navigator/attack-technique-filter",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_13_relation_list": {
+      "endpoint": "/attack-navigator/attack-technique-filter",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_14_reference_api": {
+      "endpoint": "/attack-navigator/techniques/{technique_id}/reference",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_15_delete_attack_layer": {
+      "endpoint": "/attack-navigator/attack-layer/{layer_id}",
+      "service": "ingestion",
+      "request_type": "DELETE"
+    }
+  },
+  "Tags": {
+    "test_01_create_tags": {
+      "endpoint": "/tags",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_update_tags": {
+      "endpoint": "/tags/{tag_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_03_tag_lists": {
+      "endpoint": "/tags",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_tag_details": {
+      "endpoint": "/tags/{tag_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_05_delete_tag": {
+      "endpoint": "/tags/{tag_id}",
+      "service": "ingestion",
+      "request_type": "DELETE"
+    },
+    "test_06_delete_tag_bulk": {
+      "endpoint": "/tags/bulk-actions",
+      "service": "ingestion",
+      "request_type": "POST"
+    }
+  },
+  "Reports": {
+    "test_01_create_reports": {
+      "endpoint": "/reports",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_report_details": {
+      "endpoint": "/reports/{report_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_edit_report": {
+      "endpoint": "/reports/{report_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_04_run_report": {
+      "endpoint": "/reports/{report_id}/run",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_05_report_run_logs": {
+      "endpoint": "/reports/{report_id}/run",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_06_download_file": {
+      "endpoint": "/file/{file_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_07_download_external_file": {
+      "endpoint": "/external_download/{file_id}/?token={token_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_08_list_reports": {
+      "endpoint": "/reports",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_09_delete_report": {
+      "endpoint": "/reports",
+      "service": "ingestion",
+      "request_type": "DELETE"
+    }
+  },
+  "ThreatDataObjects": {
+    "test_01_list_threat_data": {
+      "endpoint": "/threat-data/list",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_threat_data_object_details": {
+      "endpoint": "/threat-data/indicator/{object_id}/basic",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_object_details_in_table_view": {
+      "endpoint": "/threat-data/source-overview",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_object_source_details_list_view": {
+      "endpoint": "/threat-data/source-references",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_05_advanced_view_of_object": {
+      "endpoint": "/threat-data/indicator/{object_id}/advanced-details",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_06_source_details": {
+      "endpoint": "/threat-data/{object_type}/{object_id}/source-description",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_07_details_about_external_references": {
+      "endpoint": "/threat-data/{object_type}/{object_id}/external-references",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+  "BulkAction": {
+    "test_01_deprecate_indicator": {
+      "endpoint": "/threat-data/bulk-action/deprecate",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_undeprecate_indicator": {
+      "endpoint": "/threat-data/bulk-action/un_deprecate",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_03_manual_reviewed_indicator": {
+      "endpoint": "/threat-data/bulk-action/manual_review",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_04_reviewed_indicator": {
+      "endpoint": "/threat-data/bulk-action/reviewed",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_05_whitelist_indicator": {
+      "endpoint": "/threat-data/bulk-action/whitelist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_06_un_whitelist_indicator": {
+      "endpoint": "/threat-data/bulk-action/un_whitelist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_07_false_positive_indicator": {
+      "endpoint": "/threat-data/bulk-action/false_positive",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_08_un_false_positive_indicator": {
+      "endpoint": "/threat-data/bulk-action/un_false_positive",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_09_analyst_tlp": {
+      "endpoint": "/threat-data/bulk-action/analyst_tlp",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_10_analyst_score": {
+      "endpoint": "/threat-data/bulk-action/analyst_score",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_11_add_tag": {
+      "endpoint": "/threat-data/bulk-action/add_tag",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_12_watchlist_indicator": {
+      "endpoint": "/threat-data/bulk-action/watchlist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_13_un_watchlist_indicator": {
+      "endpoint": "/threat-data/bulk-action/un_watchlist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_14_analyst_description": {
+      "endpoint": "/threat-data/bulk-action/analyst_description",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_15_delete_bulk": {
+      "endpoint": "/threat-data/bulk-action/delete",
+      "service": "ingestion",
+      "request_type": "POST"
+    }
+  },
+  "ManualAction": {
+    "test_01_manual_deprecate_indicator": {
+      "endpoint": "/threat-data/action/deprecate",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_manual_undeprecate_indicator": {
+      "endpoint": "/threat-data/action/un_deprecate",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_03_mnl_manual_reviewed_indicator": {
+      "endpoint": "/threat-data/action/manual_review",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_04_mnl_reviewed_indicator": {
+      "endpoint": "/threat-data/action/reviewed",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_05_manual_whitelist_indicator": {
+      "endpoint": "/threat-data/action/whitelist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_06_manual_un_whitelist_indicator": {
+      "endpoint": "/threat-data/action/un_whitelist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_07_manual_false_positive_indicator": {
+      "endpoint": "/threat-data/action/false_positive",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_08_manual_un_false_positive_indicator": {
+      "endpoint": "/threat-data/action/un_false_positive",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_09_manual_analyst_tlp": {
+      "endpoint": "/threat-data/action/analyst_tlp",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_10_manual_analyst_score": {
+      "endpoint": "/threat-data/action/analyst_score",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_11_manual_add_tag": {
+      "endpoint": "/threat-data/action/add_tag",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_12_manual_watchlist_indicator": {
+      "endpoint": "/threat-data/action/watchlist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_13_manual_un_watchlist_indicator": {
+      "endpoint": "/threat-data/action/un_watchlist",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_14_manual_analyst_description": {
+      "endpoint": "/threat-data/action/analyst_description",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_15_manual_delete": {
+      "endpoint": "/threat-data/action/delete",
+      "service": "ingestion",
+      "request_type": "POST"
+    }
+  },
+  "CustomObjectAttribute": {
+    "test_01_create_custom_attribute": {
+      "endpoint": "/configuration/custom-attribute",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_02_get_attribute_with_ID": {
+      "endpoint": "/configuration/custom-attribute/{custom_attribute_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_get_attribute_details": {
+      "endpoint": "/configuration/custom-attribute",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_update_custom_attribute": {
+      "endpoint": "/configuration/custom-attribute/{custom_attribute_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_05_create_custom_object": {
+      "endpoint": "/configuration/custom-object",
+      "service": "ingestion",
+      "request_type": "POST"
+    },
+    "test_06_get_object_with_ID": {
+      "endpoint": "/configuration/custom-attribute/{custom_object_id}",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_07_get_object_details": {
+      "endpoint": "/configuration/custom-object",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_08_update_custom_object": {
+      "endpoint": "/configuration/custom-attribute/{custom_object_id}",
+      "service": "ingestion",
+      "request_type": "PUT"
+    },
+    "test_09_deactivate_custom_attribute": {
+      "endpoint": "/configuration/custom-attribute/{custom_object_id}",
+      "service": "ingestion",
+      "request_type": "DELETE"
+    }
+  },
+  "ThreatBulletin": {
+    "test_01_create_threat_bulletin": {
+      "endpoint": "/threat-bulletin",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_02_update_threat_bulletin": {
+      "endpoint": "/threat-bulletin/{source_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_03_Details_of_one_bulletin": {
+      "endpoint": "/threat-bulletin/{source_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_04_Details_Of_All_Bulletin": {
+      "endpoint": "/threat-bulletin",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_05_send_email": {
+      "endpoint": "/threat-bulletin/send-email",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_06_attachment_links": {
+      "endpoint": "/threat-bulletin/{source_id}/attachments/link",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_07_Attachments_of_one_bulletin": {
+      "endpoint": "/threat-bulletin/{source_id}/attachments",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "Webhooks": {
+    "test_01_get_webhook_list": {
+      "endpoint": "/feed-sources/webhooks/",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_create_webhook": {
+      "endpoint": "/feed-sources/webhooks",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_03_edit_webhooks": {
+      "endpoint": "/feed-sources/webhooks/{source_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_05_Delete_Webhook": {
+      "endpoint": "/feed-sources/webhooks/{source_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "Webscrapper": {
+    "test_01_Get_Webscrapper_List": {
+      "endpoint": "/feed-sources/web-scrapper/collection/",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_Fetch_IOC_From_Webscrapper_URL": {
+      "endpoint": "/feed-sources/web-scrapper/analyse/url",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_03_Add_new_Webscrapper": {
+      "endpoint": "/feed-sources/web-scrapper/collection",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_04_Poll_Now_Manually": {
+      "endpoint": "/feed-sources/web-scrapper/collection/{source_id}/publish",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_05_Update_Webscrapper_Collection": {
+      "endpoint": "/feed-sources/web-scrapper/collection/{source_id}/",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_06_Delete_Collection": {
+      "endpoint": "/feed-sources/web-scrapper/collection/{source_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "StixForm": {
+    "test_01_list_vocab": {
+      "endpoint": "/shareable-intel/vocab/country-ov",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_list_relation": {
+      "endpoint": "/shareable-intel/relation",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_03_create_draft": {
+      "endpoint": "/shareable-intel",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_04_update_draft": {
+      "endpoint": "/shareable-intel/{form_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_05_retrieve_draft": {
+      "endpoint": "/shareable-intel/{form_id}",
+      "service": "conversion",
+      "request_type": "GET"
+    }
+  },
+  "SourceCategory": {
+    "test_01_list_source_category": {
+      "endpoint": "/feed-sources/category/",
+      "service": "conversion",
+      "request_type": "GET"
+    },
+    "test_02_create_source_category": {
+      "endpoint": "/feed-sources/category",
+      "service": "conversion",
+      "request_type": "POST"
+    },
+    "test_03_update_source_category": {
+      "endpoint": "/feed-sources/category/{source_id}",
+      "service": "conversion",
+      "request_type": "PUT"
+    },
+    "test_04_delete_source_category": {
+      "endpoint": "/feed-sources/category/{source_id}",
+      "service": "conversion",
+      "request_type": "DELETE"
+    }
+  },
+  "ThreatDataOverview": {
+    "test_01_quick_view_card_details": {
+      "endpoint": "/threat-data/indicator/{object_id}/quick_card",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_02_action_card": {
+      "endpoint": "/actions",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_03_task_card": {
+      "endpoint": "/tasks",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_04_custom_attributes_card": {
+      "endpoint": "/threat-data/{object_type}/{object_id}/custom_attributes",
+      "service": "ingestion",
+      "request_type": "GET"
+    },
+    "test_05_source_details_card": {
+      "endpoint": "/threat-data/{ioc_type}/{object_id}/source_details",
+      "service": "ingestion",
+      "request_type": "GET"
+    }
+  },
+    "SavedSearch": {
+      "test_01_create_saved_search": {
+        "endpoint": "/saved-searches",
+        "service": "ingestion",
+        "request_type": "POST"
+      },
+      "test_02_update_saved_search": {
+        "endpoint": "/saved-searches/{saved_search_id}",
+        "service": "ingestion",
+        "request_type": "PUT"
+      },
+      "test_03_get_saved_search_list": {
+        "endpoint": "/saved-searches",
+        "service": "ingestion",
+        "request_type": "GET"
+      },
+      "test_04_get_saved_search_details": {
+        "endpoint": "/saved-searches/{saved_search_id}",
+        "service": "ingestion",
+        "request_type": "GET"
+      },
+      "test_05_pin_post_request": {
+        "endpoint": "/saved-searches/pin-saved-search",
+        "service": "ingestion",
+        "request_type": "POST"
+      },
+      "test_06_update_pin_request": {
+        "endpoint": "/saved-searches/pin-saved-search",
+        "service": "ingestion",
+        "request_type": "PUT"
+      },
+      "test_07_reorder_saved_search": {
+        "endpoint": "/saved-searches/order-saved-search",
+        "service": "ingestion",
+        "request_type": "POST"
+      },
+      "test_08_delete_pin_request": {
+        "endpoint": "/saved-searches/pin-saved-search",
+        "service": "ingestion",
+        "request_type": "DELETE"
+      },
+      "test_09_delete_saved_search": {
+        "endpoint": "/saved-searches/{saved_search_id}",
+        "service": "ingestion",
+        "request_type": "DELETE"
+      }
+    }
+}
